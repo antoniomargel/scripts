@@ -1,0 +1,15 @@
+83, 385, bifurcation
+90, 344, bifurcation
+91, 333, bifurcation
+99, 402, bifurcation
+279, 124, bifurcation
+370, 205, bifurcation
+398, 313, bifurcation
+404, 292, bifurcation
+410, 272, bifurcation
+412, 313, bifurcation
+415, 298, bifurcation
+449, 231, bifurcation
+471, 170, bifurcation
+479, 162, ending
+479, 304, ending

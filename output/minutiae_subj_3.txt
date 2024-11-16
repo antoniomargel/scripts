@@ -1,0 +1,9 @@
+171, 170, bifurcation
+238, 217, ending
+241, 370, bifurcation
+258, 279, bifurcation
+350, 294, bifurcation
+402, 271, bifurcation
+413, 288, bifurcation
+413, 362, bifurcation
+468, 422, bifurcation
